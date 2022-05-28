@@ -147,6 +147,7 @@
 			data-animate="active"
 		>
 			<iframe
+				title="kf-video"
 				class="js-video-iframe"
 				data-src="https://www.youtube.com/embed/Gu6z6kIukgg?showinfo=0&rel=0&autoplay=1"
 			/>
@@ -236,10 +237,10 @@
 							<div class="label">+012 (345) 678 99</div>
 						</div>
 						<div class="social">
-							<a href="#"><i class="fab fa-facebook-f">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-twitter">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-linkedin">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-youtube">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-facebook-f">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-twitter">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-linkedin">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-youtube">&nbsp;</i></a>
 						</div>
 					</div>
 				</div>
@@ -258,10 +259,10 @@
 							<div class="label">+012 (345) 678 99</div>
 						</div>
 						<div class="social">
-							<a href="#"><i class="fab fa-facebook-f">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-twitter">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-linkedin">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-youtube">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-facebook-f">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-twitter">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-linkedin">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-youtube">&nbsp;</i></a>
 						</div>
 					</div>
 				</div>
@@ -280,10 +281,10 @@
 							<div class="label">+012 (345) 678 99</div>
 						</div>
 						<div class="social">
-							<a href="#"><i class="fab fa-facebook-f">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-twitter">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-linkedin">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-youtube">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-facebook-f">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-twitter">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-linkedin">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-youtube">&nbsp;</i></a>
 						</div>
 					</div>
 				</div>
@@ -302,10 +303,10 @@
 							<div class="label">+012 (345) 678 99</div>
 						</div>
 						<div class="social">
-							<a href="#"><i class="fab fa-facebook-f">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-twitter">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-linkedin">&nbsp;</i></a>
-							<a href="#"><i class="fab fa-youtube">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-facebook-f">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-twitter">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-linkedin">&nbsp;</i></a>
+							<a href="/"><i class="fab fa-youtube">&nbsp;</i></a>
 						</div>
 					</div>
 				</div>

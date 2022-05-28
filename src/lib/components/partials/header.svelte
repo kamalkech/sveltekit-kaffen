@@ -72,7 +72,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="#">Pages<i class="las la-angle-down" /></a>
+							<a href="/">Pages<i class="las la-angle-down" /></a>
 							<ul>
 								<li><a href="services.html">Service</a></li>
 								<li><a href="reservation.html">Reservation</a></li>
@@ -83,7 +83,7 @@
 							</ul>
 						</li>
 						<li>
-							<a href="#">Blog<i class="las la-angle-down" /></a>
+							<a href="/">Blog<i class="las la-angle-down" /></a>
 							<ul>
 								<li><a href="blog-grid.html">Blog Grid</a></li>
 								<li><a href="blog.html">Blog Standard</a></li>
@@ -96,7 +96,7 @@
 			</div>
 			<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 align-right">
 				<!-- menu btn -->
-				<a href="#" class="kf-menu-btn"><span /></a>
+				<a href="/" class="kf-menu-btn"><span /></a>
 
 				<!-- btn -->
 				<a href="reservation.html" class="kf-btn h-btn">
@@ -129,7 +129,7 @@
 					</ul>
 				</li>
 				<li class="has-children">
-					<a href="#">Pages</a>
+					<a href="/">Pages</a>
 					<i class="las la-angle-down" />
 					<ul>
 						<li><a href="services.html">Service</a></li>
@@ -141,7 +141,7 @@
 					</ul>
 				</li>
 				<li class="has-children">
-					<a href="#">Blog</a>
+					<a href="/">Blog</a>
 					<i class="las la-angle-down" />
 					<ul>
 						<li><a href="blog-grid.html">Blog Grid</a></li>
